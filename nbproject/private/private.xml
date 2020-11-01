@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Uchenna/Documents/NetBeansProjects/libManagement/src/java/com/key/Generator.java</file>
+            <file>file:/C:/Users/Uchenna/Documents/NetBeansProjects/libManagement/src/java/com/control/UpdStaff.java</file>
+            <file>file:/C:/Users/Uchenna/Documents/NetBeansProjects/libManagement/web/staffmenu.jsp</file>
+            <file>file:/C:/Users/Uchenna/Documents/NetBeansProjects/libManagement/web/updstaff.jsp</file>
+            <file>file:/C:/Users/Uchenna/Documents/NetBeansProjects/libManagement/src/java/com/control/FindBook.java</file>
+            <file>file:/C:/Users/Uchenna/Documents/NetBeansProjects/libManagement/src/java/com/control/AddBook.java</file>
+            <file>file:/C:/Users/Uchenna/Documents/NetBeansProjects/libManagement/src/java/com/dao/LibarianDAO.java</file>
+            <file>file:/C:/Users/Uchenna/Documents/NetBeansProjects/libManagement/web/issue.jsp</file>
+            <file>file:/C:/Users/Uchenna/Documents/NetBeansProjects/libManagement/src/java/com/control/LoginControl.java</file>
+            <file>file:/C:/Users/Uchenna/Documents/NetBeansProjects/libManagement/src/java/com/dao/BooksDAO.java</file>
+            <file>file:/C:/Users/Uchenna/Documents/NetBeansProjects/libManagement/src/java/com/dao/IssueDAO.java</file>
+            <file>file:/C:/Users/Uchenna/Documents/NetBeansProjects/libManagement/src/java/com/pojo/Issue.java</file>
+            <file>file:/C:/Users/Uchenna/Documents/NetBeansProjects/libManagement/web/viewstaff.jsp</file>
+            <file>file:/C:/Users/Uchenna/Documents/NetBeansProjects/libManagement/web/addedbook.jsp</file>
+        </group>
+    </open-files>
+</project-private>
